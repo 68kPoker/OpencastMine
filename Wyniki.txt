@@ -1,0 +1,36 @@
+Kopalnia odkrywkowa
+Wartosc funkcji celu: 17500
+Poziom 1 (koszt 3000)
+(0,0) Wartosc: 3000 (Wykopane)
+(0,1) Wartosc: 3000 (Wykopane)
+(0,2) Wartosc: 3000 (Wykopane)
+(0,3) Wartosc: 1500 
+(1,0) Wartosc: 3000 (Wykopane)
+(1,1) Wartosc: 4000 (Wykopane)
+(1,2) Wartosc: 3000 (Wykopane)
+(1,3) Wartosc: 1500 
+(2,0) Wartosc: 2000 (Wykopane)
+(2,1) Wartosc: 2000 (Wykopane)
+(2,2) Wartosc: 1500 (Wykopane)
+(2,3) Wartosc: 1000 
+(3,0) Wartosc: 1500 
+(3,1) Wartosc: 1500 
+(3,2) Wartosc: 1000 
+(3,3) Wartosc: 500 
+Poziom 2 (koszt 6000)
+(0,0) Wartosc: 8000 (Wykopane)
+(0,1) Wartosc: 8000 (Wykopane)
+(0,2) Wartosc: 4000 
+(1,0) Wartosc: 6000 (Wykopane)
+(1,1) Wartosc: 6000 (Wykopane)
+(1,2) Wartosc: 2000 
+(2,0) Wartosc: 4000 
+(2,1) Wartosc: 4000 
+(2,2) Wartosc: 1000 
+Poziom 3 (koszt 8000)
+(0,0) Wartosc: 24000 (Wykopane)
+(0,1) Wartosc: 12000 
+(1,0) Wartosc: 10000 
+(1,1) Wartosc: 8000 
+Poziom 4 (koszt 10000)
+(0,0) Wartosc: 12000 
